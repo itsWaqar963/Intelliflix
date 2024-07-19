@@ -1,0 +1,28 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Spring Boot
+target/
+*.log
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# OS Files
+.DS_Store
+Thumbs.db
+
